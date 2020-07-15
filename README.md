@@ -10,7 +10,7 @@
 <a href="https://t.me/rubinbhandari">
   <img align="left" alt="Rubin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/rubin.__/">
+<a href="https://www.instagram.com/rubiin.__/">
   <img align="left" alt="Rubin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <a href="https://www.reddit.com/user/rubinbhandari/">
