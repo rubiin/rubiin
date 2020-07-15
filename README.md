@@ -1,46 +1,41 @@
-### Hey 👋🏽, I'm [Abhishek!](https://abhisheknaidu.tech) 
+### Hey 👋🏽, I'm [Rubin!](https://rubiin.now.sh) 
 
 <br/>
-<a href="https://twitter.com/geeky_abhiz">
-  <img align="left" alt="Abhishek Naidu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/rubiin">
+  <img align="left" alt="Rubin Bhandari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/xidharth/">
+  <img align="left" alt="Rubin's LinkedIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://t.me/abhisheknaiidu">
-  <img align="left" alt="Abhishek's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+<a href="https://t.me/rubinbhandari">
+  <img align="left" alt="Rubin's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="https://www.instagram.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://www.instagram.com/rubin.__/">
+  <img align="left" alt="Rubin's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.reddit.com/user/geekyabhi/">
-  <img align="left" alt="Abhishek's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+<a href="https://www.reddit.com/user/rubinbhandari/">
+  <img align="left" alt="Rubin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
 <a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Abhishek's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-<a href="https://www.codechef.com/users/abhisheknaidu">
-  <img align="left" alt="Abhishek's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  <img align="left" alt="Rubin's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
+![](https://visitor-badge.glitch.me/badge?page_id=rubiin)
 
 <br />
 
-Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a Community Team Member 🙍🏽‍♂️ [@CreactiveCommons](https://github.com/creativecommons), Freelancer 👨🏽‍💻 [@Upwork](https://www.upwork.com/), Internee 👨🏽‍💼[@IncubateIND](https://incubateind.com/) and a Former Research Intern [@IIT Hyderabad](https://iith.ac.in/). Beside's programming, I enjoy eating food and traveling.
-
+Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with Rosebay Group 🙍🏽‍♂️ [@RosebayGroup](https://rosebaygroup.com).I am a self taught developer, FOSS lover, linux enthusiast. I have always loved creating something out of nothing. When I was little I started with legos, moved on to painting, and then I found the digital world where it was possible to create anything! I started creating anything and everything; games, 3D models, softwares and websites.Now I like building new stuff and work with other people – nothing really interesting is ever built alone!
   <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
 - 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
-- 🌱 I’m currently learning GraphQL and C++; 
-- 👯 I’m looking to collaborate on [A-POP](https://github.com/abhisheknaiidu/A-POP) 🤝;
+- 🌱 I’m currently learning Golang and kubernetes; 
+- 👯 I’m looking to collaborate on [NestJS-Easyconfig](https://github.com/rubiin/nestjs-easyconfig) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
-- 📫 How to reach me: geekyabhi12@gmail.com;
-- 📝[Resume](https://drive.google.com/file/d/1TIgJ7rDBUYSkbs_QNcIEttJ5BFaIW3nn/view)
+- 📫 How to reach me: roobin.bhandari@gmail.com;
 
 **Languages and Tools:**  
 
@@ -58,5 +53,4 @@ Hi, I'm Abhishek Naidu, a Full Stack Developer 🚀 from India, currently, I'm a
 
 
 
-![Abhishek's github stats](https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&hide_border=true)
 
