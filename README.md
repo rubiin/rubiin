@@ -25,16 +25,16 @@
 <br />
 
 Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with Rosebay Group 🙍🏽‍♂️ [@RosebayGroup](https://rosebaygroup.com).I am a self taught developer, FOSS lover, linux enthusiast. I have always loved creating something out of nothing. When I was little I started with legos, moved on to painting, and then I found the digital world where it was possible to create anything! I started creating anything and everything; games, 3D models, softwares and websites.Now I like building new stuff and work with other people – nothing really interesting is ever built alone!
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on [A-POP](https://github.com/abhisheknaiidu/A-POP);
+- 👨🏽‍💻 I’m currently working on [projecto](https://github.com/rubiin/projecto);
 - 🌱 I’m currently learning Golang and kubernetes; 
 - 👯 I’m looking to collaborate on [NestJS-Easyconfig](https://github.com/rubiin/nestjs-easyconfig) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: I started helping JEE and AIPMT aspirants, by launching my own platform known as [CompetitiveGeeks](https://competitivegeeks.wordpress.com/) in 2018, and sold almost **750+** Notes so far!
+- ⚡️ Fun-Fact: I started writing blogs on 2019 on [Dev.to](https://dev.to) and have around 3k followers !
 - 📫 How to reach me: roobin.bhandari@gmail.com;
 
 **Languages and Tools:**  
