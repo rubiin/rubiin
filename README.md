@@ -38,7 +38,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 - ⚡️ Fun-Fact: I started writing blogs on 2019 on [Dev.to](https://dev.to) and have around 3k followers !
 - 📫 How to reach me: roobin.bhandari@gmail.com;
 
-**Languages and Tools:**  
+**Stuffs I use (Languages,Tools and Others):**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
