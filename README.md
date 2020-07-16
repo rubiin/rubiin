@@ -16,11 +16,11 @@
 <a href="https://www.reddit.com/user/rubinbhandari/">
   <img align="left" alt="Rubin's Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
 </a>
-<a href="https://leetcode.com/abhisheknaiidu/">
-  <img align="left" alt="Rubin's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
+<a href="https://dev.to/rubiin/">
+  <img align="left" alt="Rubin's Dev.to" wialt="Rubin's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rubiin)
+![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
 
 <br />
 
