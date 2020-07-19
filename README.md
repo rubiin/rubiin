@@ -59,6 +59,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <code><img height="20" src="https://discord.com/assets/41484d92c876f76b20c7f746221e8151.svg"></code>
 <code><img height="20" src="https://d2k1ftgv7pobq7.cloudfront.net/meta/u/res/images/brand-assets/Logos/0099ec3754bf473d2bbf317204ab6fea/trello-logo-blue.png"></code>
 <code><img height="20" src="https://wac-cdn.atlassian.com/dam/jcr:75ba14ba-5e19-46c7-98ef-473289b982a7/Jira%20Software-blue.svg"></code>
+<code><img height="20" src="https://www.jenkins.io/images/logo_128.png"></code>
 
 [![Rubin's github stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=rubiin&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/anuraghazra/github-readme-stats)
 
