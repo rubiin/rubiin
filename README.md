@@ -26,7 +26,7 @@
 
 Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://rosebaycorporate.com">Rosebay Corporate</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I have always loved creating something out of nothing. When I was little I started with legos, moved on to painting, and then I found the digital world where it was possible to create anything! I started creating anything and everything; games, 3D models, softwares and websites.Now I like building new stuff and work with other people – nothing really interesting is ever built alone!
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+ <img align="right" alt="GIF" src="https://media.giphy.com/media/3osxYurj3xjl91g23e/giphy.gif" />
   
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
