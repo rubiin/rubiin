@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif" width="100"></h2>
+<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
 
 <br/>
 <a href="https://twitter.com/rubiin">
