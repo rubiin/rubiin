@@ -39,6 +39,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 - 📫 How to reach me: roobin.bhandari@gmail.com;
 
 **Stuffs I use (Languages,Tools and Others):**
+<br/>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
