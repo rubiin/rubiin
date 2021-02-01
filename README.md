@@ -45,12 +45,16 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 ![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
 ![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
-![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=Git)
+![Linux](https://img.shields.io/badge/-Linux-black?style=for-the-badge&logo=Linux&logoColor=FCC624)
+![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-Black?style=for-the-badge&logo=css3)
+![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Jenkins&logoColor=0079BF)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Trello&logoColor=D24939)
+![Jira](https://img.shields.io/badge/-Jira-black?style=for-the-badge&logo=Jira&logoColor=0052CC)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=for-the-badge&logo=mongodb)
-![postgres](https://img.shields.io/badge/-Postgresql-00599C?style=for-the-badge&logo=postgresql)
+![postgres](https://img.shields.io/badge/-Postgresql-black?style=for-the-badge&logo=postgresql)
 
 📈 **My GitHub Stats:**
 
