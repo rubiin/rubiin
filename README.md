@@ -43,6 +43,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Typescript-black?style=for-the-badge&logo=Typescript&logoColor=3178C6)
 ![Typescript](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js&logoColor=5df58b)
+![Golang](https://img.shields.io/badge/-Go-black?style=for-the-badge&logo=Go&logoColor=5df58b)
 ![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
