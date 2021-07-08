@@ -30,7 +30,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-- 👨🏽‍💻 I’m currently working on [projecto](https://github.com/rubiin/projecto).
+- 👨🏽‍💻 I’m currently working on [gitignorer](https://github.com/rubiin/gitignorer).
 - 🌱 I’m currently learning Golang and kubernetes; 
 - 👯 I’m looking to collaborate on [NestJS-Easyconfig](https://github.com/rubiin/nestjs-easyconfig) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
