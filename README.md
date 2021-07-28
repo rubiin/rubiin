@@ -21,6 +21,9 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
+<a href="https://commits.top/nepal_public.html" target="_blank">
+<img src="https://img.shields.io/static/v1?label=commits.top_rank&message=3&color=brightgreen" />
+</a>
 
 <br />
 
