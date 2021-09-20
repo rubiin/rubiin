@@ -21,9 +21,6 @@
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
-<a href="https://commits.top/nepal_public.html" target="_blank">
-<img src="https://img.shields.io/static/v1?label=commits.top_rank&message=3&color=brightgreen" />
-</a>
 
 <br />
 
@@ -66,5 +63,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
 </p>
+
+<a href="https://commits.top/nepal_public.html" target="_blank">
+<img src="http://biego.tech/commits?user=rubiin&country=nepal" />
+</a>
+<br/>
+<br/>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Show some ❤️ by starring some of the repositories! :)</em>
