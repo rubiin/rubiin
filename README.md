@@ -60,13 +60,16 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rubiin&theme=dracula&hide_border=true&include_all_commits=true&count_private=false" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubiin&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&hide=html&layout=compact&langs_count=8&theme=dracula"/>
 </p>
 
+<p>
+ <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubiin&theme=dracula&hide_border=true" 
 <a href="https://commits.top/nepal_public.html" target="_blank">
-<img src="http://biego.tech/commits?user=rubiin&country=nepal" />
+<img height="100em" src="http://biego.tech/commits?user=rubiin&country=nepal" />
 </a>
+</p>
 <br/>
 <br/>
 
