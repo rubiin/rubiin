@@ -65,12 +65,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 </p>
 
 <p>
- <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rubiin&theme=dracula&hide_border=true" 
-<a href="https://commits.top/nepal_public.html" target="_blank">
-<img height="100em" src="http://biego.tech/commits?user=rubiin&country=nepal" />
-</a>
+  
+  <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubiin&theme=dracula" alt="rubiin"/>
+  <img height="180em"  width="360em" src="https://github-readme-streak-stats.herokuapp.com?user=rubiin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rubiin"/>
+  
 </p>
-<br/>
-<br/>
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>Show some ❤️ by starring some of the repositories! :)</em>
+
