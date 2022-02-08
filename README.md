@@ -84,6 +84,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Shorten urls in your javascript apps](https://dev.to/rubiin/shorten-urls-in-your-nodejs-apps-271n)
+- [Shrink docker node images](https://dev.to/rubiin/shrink-docker-node-images-2f78)
+- [How to write meaningful and better commit messages](https://dev.to/rubiin/how-to-write-meaningful-and-better-commit-messages-2d84)
+- [I made a cli on Golang](https://dev.to/rubiin/i-made-my-first-cli-on-golang-2o73)
 <!-- BLOG-POST-LIST:END -->
 
 
