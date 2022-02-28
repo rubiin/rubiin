@@ -90,4 +90,6 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 - [I made a cli on Golang](https://dev.to/rubiin/i-made-my-first-cli-on-golang-2o73)
 <!-- BLOG-POST-LIST:END -->
 
+<!--START_SECTION:waka--><!--END_SECTION:waka-->
+
 
