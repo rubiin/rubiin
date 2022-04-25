@@ -84,10 +84,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [Unknown type in typescript](https://dev.to/rubiin/unknown-type-in-typescript-5ak7)
 - [Why commit signing is necessary](https://dev.to/rubiin/why-commit-signing-is-necessary-6ca)
 - [Shorten urls in your javascript apps](https://dev.to/rubiin/shorten-urls-in-your-nodejs-apps-271n)
 - [Shrink docker node images](https://dev.to/rubiin/shrink-docker-node-images-2f78)
-- [How to write meaningful and better commit messages](https://dev.to/rubiin/how-to-write-meaningful-and-better-commit-messages-2d84)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
