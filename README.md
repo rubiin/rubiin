@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="25px"></h2>
 
 <br/>
 <a href="https://twitter.com/rubiin">
@@ -24,7 +24,7 @@
 
 <br />
 
-Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://ebpearls.com.au/">EB Pearls</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I have always loved creating something out of nothing. When I was little I started with legos, moved on to painting, and then I found the digital world where it was possible to create anything! I started creating anything and everything; games, 3D models, softwares and websites.Now I like building new stuff and work with other people – nothing really interesting is ever built alone!
+Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://ebpearls.com.au/">EB Pearls</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created, please feel free to send a tip, give me a shout out @_waylonwalker, give some hearts on DEV.to/rubiin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
