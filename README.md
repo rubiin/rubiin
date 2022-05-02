@@ -84,10 +84,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 - [AI code completion](https://dev.to/rubiin/ai-code-completion-ndj)
 - [Unknown type in typescript](https://dev.to/rubiin/unknown-type-in-typescript-5ak7)
 - [Why commit signing is necessary](https://dev.to/rubiin/why-commit-signing-is-necessary-6ca)
-- [Shorten urls in your javascript apps](https://dev.to/rubiin/shorten-urls-in-your-nodejs-apps-271n)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
