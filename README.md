@@ -1,6 +1,7 @@
 <h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="45px"></h2>
 
-<br/>
+![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
+
 <a href="https://twitter.com/rubiin">
   <img align="left" alt="Rubin Bhandari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -19,9 +20,6 @@
 <a href="https://dev.to/rubiin/">
   <img align="left" alt="Rubin's Dev.to" wialt="Rubin's Dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" />
 </a>
-
-![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
-
 <br />
 
 Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://ebpearls.com.au/">EB Pearls</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created or contributed to, please feel free to send a tip, give me a shout out @RubinCodes, give some hearts on DEV.to/rubiin
@@ -78,8 +76,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <p>
   
   <img height="180em"  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubiin&theme=dracula" alt="rubiin"/>
-  <img height="180em"  width="360em" src="https://github-readme-streak-stats.herokuapp.com?user=rubiin&theme=dracula&date_format=M%20j%5B%2C%20Y%5D" alt="rubiin"/>
-  
+ 
 </p>
 
 📕 &nbsp;**Latest Blog Posts**
@@ -102,3 +99,5 @@ Markdown     0 secs          ░░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
