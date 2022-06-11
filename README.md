@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="45px"></h2>
+<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px"></h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
 
@@ -100,6 +100,3 @@ Other        45 mins         ▓░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
