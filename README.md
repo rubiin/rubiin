@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="20px" height="50px"></h2>
+<h2> Hi, I'm <a href="https://rubiin.ml">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="20px" height="50px"></h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
 
@@ -27,10 +27,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 - 👨🏽‍💻 I’m currently working on [gitignorer](https://github.com/rubiin/gitignorer).
-- 🌱 I’m currently learning Golang and kubernetes; 
+- 🌱 I’m currently learning Golang and kubernetes;
 - 👯 I’m looking to collaborate on [NestJS-Easyconfig](https://github.com/rubiin/nestjs-easyconfig) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
@@ -81,7 +81,9 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 </p>
 
 📕 &nbsp;**Latest Blog Posts**
+
 <!-- BLOG-POST-LIST:START -->
+
 - [Typescript notes](https://dev.to/rubiin/typescript-notes-31do)
 - [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 - [AI code completion](https://dev.to/rubiin/ai-code-completion-ndj)
