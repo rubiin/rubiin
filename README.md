@@ -1,4 +1,4 @@
-<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="20px" height="50px"></h2>
+<h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h2>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
 
@@ -22,6 +22,8 @@
 </a>
 <br />
 <br/>
+
+![header](header_.png)
 
 Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://ebpearls.com.au/">EB Pearls</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created or contributed to, please feel free to send a tip, give me a shout out @RubinCodes, give some hearts on DEV.to/rubiin
 
