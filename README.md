@@ -23,7 +23,7 @@
 <br />
 <br/>
 
-Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://ebpearls.com.au/">EB Pearls</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created or contributed to, please feel free to send a tip, give me a shout out @RubinCodes, give some hearts on DEV.to/rubiin
+Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm working with <a href="https://takeo.ai/">Takeo.ai</a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.I am a self taught developer, FOSS lover, linux enthusiast. I create blog posts and open source packages mainly on JS and Go that I find will help me and others with similar problems. I have a passion for learning and sharing my knowledge with others in a way that's as public as possible. You can see a full list of what I am up to on rubiin.ml. If you found value in something I have created or contributed to, please feel free to send a tip, give me a shout out @RubinCodes, give some hearts on DEV.to/rubiin
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
  
