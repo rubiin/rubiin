@@ -1,7 +1,5 @@
 <h2> Hi, I'm <a href="https://rubiin.now.sh">Rubin</a><img src="https://raw.githubusercontent.com/rubiin/rubiin/master/pikahello.gif" width="40px" height="40px"></h2>
 
-![](https://visitor-badge.glitch.me/badge?page_id=rubiin.rubiin)
-
 <a href="https://twitter.com/rubiin">
   <img align="left" alt="Rubin Bhandari | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
