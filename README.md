@@ -80,10 +80,10 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [NFDL - a simple cli to download nerd fonts](https://dev.to/rubiin/nfdl-a-simple-script-to-download-nerd-fonts-2cah)
 - [Python for nodejs developers](https://dev.to/rubiin/python-for-nodejs-developers-474l)
 - [sass mixins that are way too good](https://dev.to/rubiin/sass-mixins-that-are-way-too-good-25b0)
 - [Typescript notes](https://dev.to/rubiin/typescript-notes-31do)
-- [typeof and lookup type in typescript](https://dev.to/rubiin/typeof-and-lookup-type-in-typescript-40o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
