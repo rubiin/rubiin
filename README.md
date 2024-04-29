@@ -56,6 +56,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 ![Bash](https://img.shields.io/badge/-Gnubash-black?style=for-the-badge&logo=gnubash)
 ![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=for-the-badge&logo=Jenkins&logoColor=D24939)
 ![Docker](https://img.shields.io/badge/-docker-black?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Traefik](https://img.shields.io/badge/-traefik-black?style=for-the-badge&logo=traefik&logoColor=2496ED)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=for-the-badge&logo=Postman&logoColor=FF6C37)
 ![Jest](https://img.shields.io/badge/-Jest-black?style=for-the-badge&logo=jest)
 ![Trello](https://img.shields.io/badge/-Trello-black?style=for-the-badge&logo=Trello&logoColor=0079BF)
