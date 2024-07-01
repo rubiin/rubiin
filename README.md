@@ -32,7 +32,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 - 👯 I’m looking to collaborate on [NestJS-Easyconfig](https://github.com/rubiin/nestjs-easyconfig) 🤝;
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭;
 - 💬 Ask me about anything, I am happy to help;
-- ⚡️ Fun-Fact: Go to [my personal site](rubiin.now.sh) and type in `rubin` .Theres more, happy treasure hunting!
+- ⚡️ Fun-Fact: Go to [my personal site](https://rubiin.pages.dev) and type in `rubin` .Theres more, happy treasure hunting!
 - 📫 How to reach me: roobin.bhandari@gmail.com;
 
 <br/>
