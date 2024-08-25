@@ -21,4 +21,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: 5
-          feed_list: "https://rubiin.is-a.dev/rss.xml,https://dev.to/feed/rubiin"
+          feed_list: "https://rubiin.is-a.dev/rss.xml"
