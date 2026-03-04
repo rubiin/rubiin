@@ -92,8 +92,8 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   1 hr 39 mins          █████████████████████████   99.43 %
-TOML         0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+TypeScript   16 mins               ████████████████████████░   96.60 %
+TOML         0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
