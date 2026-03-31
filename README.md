@@ -92,11 +92,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <!--START_SECTION:waka-->
 
 ```txt
-TOML           2 hrs 39 mins         ███████▒░░░░░░░░░░░░░░░░░   28.82 %
-Other          2 hrs 22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.82 %
-Bash           1 hr 7 mins           ███░░░░░░░░░░░░░░░░░░░░░░   12.22 %
-TSConfig       25 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-hyprlang       18 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+TOML         2 hrs 16 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.54 %
+Other        1 hr 43 mins          █████░░░░░░░░░░░░░░░░░░░░   19.36 %
+Bash         1 hr 3 mins           ███░░░░░░░░░░░░░░░░░░░░░░   11.99 %
+TypeScript   50 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.53 %
+JSON         32 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
