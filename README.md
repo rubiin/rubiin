@@ -82,11 +82,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
-- [REPL in Nestjs](https://rubiin.is-a.dev/blog/repl-in-nestjs/)
-- [Linux Commands You Should Master](https://rubiin.is-a.dev/blog/linux-commands-you-should-master/)
-- [Top Obsidian Plugins to Supercharge Your Note-Taking Experience](https://rubiin.is-a.dev/blog/top-obsidian-plugins-to-supercharge-your-note-taking-experience/)
-- [Useful aliases for docker](https://rubiin.is-a.dev/blog/useful-aliases-for-docker/)
-- [Terminal 101 - Xargs](https://rubiin.is-a.dev/blog/terminal-101---xargs/)
+- [REPL in Nestjs](https://rubiin.is-a.dev/blog/repl-in-nestjs)
+- [Linux Commands You Should Master](https://rubiin.is-a.dev/blog/linux-commands-you-should-master)
+- [Top Obsidian Plugins to Supercharge Your Note-Taking Experience](https://rubiin.is-a.dev/blog/top-obsidian-plugins-to-supercharge-your-note-taking-experience)
+- [Useful aliases for docker](https://rubiin.is-a.dev/blog/useful-aliases-for-docker)
+- [Terminal 101 - Xargs](https://rubiin.is-a.dev/blog/terminal-101---xargs)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
