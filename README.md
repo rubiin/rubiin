@@ -82,11 +82,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts**
 <!-- BLOG-POST-LIST:START -->
+- [My dev setup: Arch, Hyprland, and a terminal-first workflow](https://rubiin.is-a.dev/blog/my-dev-setup)
 - [The JavaScript event loop, explained with a coffee shop](https://rubiin.is-a.dev/blog/javascript-event-loop-coffee-shop)
 - [Idempotency keys: making API retries safe](https://rubiin.is-a.dev/blog/idempotency-keys-api-retries)
 - [Graceful shutdowns: why your deploys drop requests](https://rubiin.is-a.dev/blog/graceful-shutdowns)
 - [JWT vs sessions: choosing the right auth for your API](https://rubiin.is-a.dev/blog/jwt-vs-sessions-auth)
-- [TypeScript&#39;s satisfies operator: type-safe without the ceremony](https://rubiin.is-a.dev/blog/typescript-satisfies-operator)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
