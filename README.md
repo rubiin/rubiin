@@ -92,11 +92,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 31 mins          ████████▒░░░░░░░░░░░░░░░░   33.46 %
-Python       1 hr 21 mins          ███████▒░░░░░░░░░░░░░░░░░   29.83 %
-Other        42 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.58 %
-Bash         19 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
-TOML         15 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
+Python       2 hrs 6 mins          ████████░░░░░░░░░░░░░░░░░   32.63 %
+Markdown     1 hr 41 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.12 %
+Other        42 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.00 %
+Bash         30 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.92 %
+Lua          26 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
 ```
 
 <!--END_SECTION:waka-->
