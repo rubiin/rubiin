@@ -80,7 +80,7 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
  
 </p>
 
-📕 &nbsp;**Latest Blog Posts**
+📕 &nbsp;**Latest Blog Posts From My Site**
 <!-- BLOG-POST-LIST:START -->
 - [My dev setup: Arch, Hyprland, and a terminal-first workflow](https://rubiin.is-a.dev/blog/my-dev-setup)
 - [The JavaScript event loop, explained with a coffee shop](https://rubiin.is-a.dev/blog/javascript-event-loop-coffee-shop)
