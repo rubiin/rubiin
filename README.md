@@ -92,11 +92,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 <!--START_SECTION:waka-->
 
 ```txt
-Other        55 mins               ██████████▒░░░░░░░░░░░░░░   41.50 %
-YAML         22 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-Python       16 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.18 %
-Bash         11 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   08.68 %
-Lua          8 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
+Other        28 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.16 %
+SCSS         27 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.42 %
+Bash         25 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.80 %
+Python       21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
+YAML         21 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.48 %
 ```
 
 <!--END_SECTION:waka-->
