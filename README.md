@@ -82,11 +82,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts From My Site**
 <!-- BLOG-POST-LIST:START -->
-- [My dev setup: Arch, Hyprland, and a terminal-first workflow](https://rubiin.is-a.dev/blog/my-dev-setup)
-- [The JavaScript event loop, explained with a coffee shop](https://rubiin.is-a.dev/blog/javascript-event-loop-coffee-shop)
-- [Idempotency keys: making API retries safe](https://rubiin.is-a.dev/blog/idempotency-keys-api-retries)
-- [Graceful shutdowns: why your deploys drop requests](https://rubiin.is-a.dev/blog/graceful-shutdowns)
-- [JWT vs sessions: choosing the right auth for your API](https://rubiin.is-a.dev/blog/jwt-vs-sessions-auth)
+- [PM2 and systemd for Node apps: a practical cheatsheet](https://rubiin.is-a.dev/blog/pm2-systemd-cheatsheet)
+- [cURL cheatsheet for API developers](https://rubiin.is-a.dev/blog/curl-cheatsheet-api-developers)
+- [Zero-downtime database migrations](https://rubiin.is-a.dev/blog/zero-downtime-migrations)
+- [Template literal types in practice](https://rubiin.is-a.dev/blog/template-literal-types-practice)
+- [Circuit breakers: failing fast when a dependency is down](https://rubiin.is-a.dev/blog/circuit-breakers-fallbacks)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
