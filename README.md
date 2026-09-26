@@ -82,11 +82,11 @@ Hi, I'm Rubin Bhandari, a Full Stack Developer 🚀 from Nepal, currently, I'm w
 
 📕 &nbsp;**Latest Blog Posts From My Site**
 <!-- BLOG-POST-LIST:START -->
+- [Shelf: a shell plugin manager in Go](https://rubiin.is-a.dev/blog/shelf-shell-plugin-manager)
 - [PM2 and systemd for Node apps: a practical cheatsheet](https://rubiin.is-a.dev/blog/pm2-systemd-cheatsheet)
 - [cURL cheatsheet for API developers](https://rubiin.is-a.dev/blog/curl-cheatsheet-api-developers)
 - [Zero-downtime database migrations](https://rubiin.is-a.dev/blog/zero-downtime-migrations)
 - [Template literal types in practice](https://rubiin.is-a.dev/blog/template-literal-types-practice)
-- [Circuit breakers: failing fast when a dependency is down](https://rubiin.is-a.dev/blog/circuit-breakers-fallbacks)
 <!-- BLOG-POST-LIST:END -->
 
 <!--START_SECTION:waka-->
